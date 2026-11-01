@@ -6,7 +6,8 @@ A prototype for the Full Stack Developer Intern assessment.
 
 **The improvement.** Let the visitor pick the service, pick a 30-minute slot, and leave their details. They get a reference ID, a confirmation page, and a calendar file straight away.
 
-Live demo: _add the Vercel URL here after deploying_
+Live demo: https://cynbit-discovery-slots.vercel.app/
+Report link: https://docs.google.com/document/d/1-QP7zS2eziLmgs1yyI-fJ0ml5P3Eipo6LiTeUa0Dvuo/edit?usp=sharing
 
 ## Try it
 
